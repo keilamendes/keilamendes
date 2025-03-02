@@ -65,7 +65,7 @@ My name is Keila Mendes and I am an internal development intern in Portugal. I a
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="170" 
     style="padding-right: 5px;" 
     src="https://github-readme-stats.vercel.app/api?username=keilamendes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
@@ -73,7 +73,7 @@ My name is Keila Mendes and I am an internal development intern in Portugal. I a
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="100" 
+      height="80" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=keilamendes&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9&locale=en" 
   />
 
